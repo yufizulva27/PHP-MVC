@@ -1,0 +1,5 @@
+hasil dari folder controllers home ini di simpan ke dalam folder home
+
+<-- 2 file di bawah ini yaitu 2 class utama pembentuk mvc nya -->
+require_once '../core/App.php'; 
+require_once '../core/Controller.php';
