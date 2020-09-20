@@ -1,1 +1,3 @@
 folder app ini untuk menyinmpan file file utama dari aplikasi MVC yangg dibuat
+
+.htaccess yaitu  jika ada user yg buka folder App dan folder folder didalamnya selama didalam folder itu tidak ada index maka jangan tampilkan isi foldernya (block access  nya).
